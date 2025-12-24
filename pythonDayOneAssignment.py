@@ -11,7 +11,6 @@ def calculate_average(marks):
     return sum(marks) / len(marks)
 
 
-# Variables to track top scorer
 top_student = ""
 top_average = 0
 
